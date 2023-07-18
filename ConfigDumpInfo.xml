@@ -88,11 +88,11 @@
 		<Metadata name="CommonPicture.Расчеты.Picture" id="d4f2cd1f-c7dc-4db0-bc14-6de4faef79f9.0" configVersion="e136fbbe1d7284409422bc6167d1fb6d00000000"/>
 		<Metadata name="CommonPicture.Сервис" id="ce117e9a-32c1-4b6a-9037-58a22ad2a457" configVersion="e0e9ba5ffde5fd43bc4383a056db912700000000"/>
 		<Metadata name="CommonPicture.Сервис.Picture" id="ce117e9a-32c1-4b6a-9037-58a22ad2a457.0" configVersion="33d641199b59d146af5e4a1011a9126b00000000"/>
-		<Metadata name="Configuration.Задание5" id="bc7495ad-432e-4f59-8fab-94750b9a56d8" configVersion="f9990d33aecd564aaee373fdc07e9e8100000000"/>
-		<Metadata name="Configuration.Задание5.ClientApplicationInterface" id="cd84adeb-60ef-4bc7-b819-604ae4ddb6b8.b" configVersion="31f9297eaef19e42aa4ec66a50a7c84800000000"/>
-		<Metadata name="Configuration.Задание5.CommandInterface" id="cd84adeb-60ef-4bc7-b819-604ae4ddb6b8.a" configVersion="9981aa334bab5547ac1c9d7c9f74490500000000"/>
-		<Metadata name="Configuration.Задание5.HomePageWorkArea" id="cd84adeb-60ef-4bc7-b819-604ae4ddb6b8.8" configVersion="8d8e953cacc47042bd72ff3060eaafa400000000"/>
-		<Metadata name="Configuration.Задание5.SessionModule" id="cd84adeb-60ef-4bc7-b819-604ae4ddb6b8.7" configVersion="76b00eb8b14af343842ddb345bbd0e4000000000"/>
+		<Metadata name="Configuration.Экспериментальная" id="bc7495ad-432e-4f59-8fab-94750b9a56d8" configVersion="4444977ac15e8348aaebf0cf56fc1cf600000000"/>
+		<Metadata name="Configuration.Экспериментальная.ClientApplicationInterface" id="cd84adeb-60ef-4bc7-b819-604ae4ddb6b8.b" configVersion="31f9297eaef19e42aa4ec66a50a7c84800000000"/>
+		<Metadata name="Configuration.Экспериментальная.CommandInterface" id="cd84adeb-60ef-4bc7-b819-604ae4ddb6b8.a" configVersion="9981aa334bab5547ac1c9d7c9f74490500000000"/>
+		<Metadata name="Configuration.Экспериментальная.HomePageWorkArea" id="cd84adeb-60ef-4bc7-b819-604ae4ddb6b8.8" configVersion="8d8e953cacc47042bd72ff3060eaafa400000000"/>
+		<Metadata name="Configuration.Экспериментальная.SessionModule" id="cd84adeb-60ef-4bc7-b819-604ae4ddb6b8.7" configVersion="76b00eb8b14af343842ddb345bbd0e4000000000"/>
 		<Metadata name="DataProcessor.ЗаполнениеГрафика" id="8da0ed3a-9fcb-4983-9485-a8a3deed4c87" configVersion="1ada6b5baccc1d49902948177743162000000000">
 			<Metadata name="DataProcessor.ЗаполнениеГрафика.Attribute.График" id="acaf2451-3e04-4845-be90-45aea54f0145"/>
 		</Metadata>

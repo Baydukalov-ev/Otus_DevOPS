@@ -1063,7 +1063,7 @@
 		</right>
 	</object>
 	<object>
-		<name>Configuration.Задание5</name>
+		<name>Configuration.Экспериментальная</name>
 		<right>
 			<name>Administration</name>
 			<value>true</value>
